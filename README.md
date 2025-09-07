@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm María Catalina Rodríguez Cardona (or just Cata)</h1>
 <h3 align="center">🎓 Software Engineering Student at Universidad Nacional de Colombia</h3>
+<h3 align="center">🧵 Oh! And I also like to embroider in my free time</h3>
 
 - 🌱 I’m currently learning: **Software Engineering & Computer Networks**
 
