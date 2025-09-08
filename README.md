@@ -2,6 +2,8 @@
 <h3 align="center">🎓 Software Engineering Student at Universidad Nacional de Colombia</h3>
 <h3 align="center">🧵 Oh! And I also like to embroider in my free time</h3>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQyb2ZldGtrNno1cWQ1bmRvdTV4YnVqZmpnNGl0aHJhOG9rZW9sNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="600">
+
 - 🌱 I’m currently learning: **Software Engineering & Computer Networks**
 
 - 📫 How to reach me: **marirodriguezcar@unal.edu.co**
