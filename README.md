@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **marirodriguezcar@unal.edu.co**
 
-- ⚡ Fun fact: **I'm part of a big family that consists of my 4 siblings, my parents and my dog Miss.Darcy**
+- ⚡ Fun fact: **I'm part of a big family that consists of my 4 siblings, my parents and my dog Miss. Darcy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
